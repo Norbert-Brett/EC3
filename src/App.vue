@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/vue.svg" class="logo" />
+    <img alt="Vue logo" src="https://cdn.svgporn.com/logos/aws.svg" class="logo" />
     <HelloWorld msg="Welcome to Your Vue.js + EC3 App" />
   </div>
 </template>
